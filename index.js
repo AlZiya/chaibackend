@@ -8,7 +8,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/twitter',(req,res)=>{
-    res.send('Samreen you are best soulmade')
+    res.send('Samreen you are best soulmate')
 })
 
 app.get('/login',(req,res)=>{
